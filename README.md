@@ -17,5 +17,5 @@ le plus complexe selon moi est l'exercice numéro 2 où une certaine réflection
 l'exercice 5 a également posé un problème car la class col-xs- causait des problème de responsivité.
 
 |nom|prenom|date début| temps du projet|
------------------------------------------
+|:--|:-----|:---------|:---------------|
 |lorand|pierre|06/01/2020|1 jours|
