@@ -19,4 +19,3 @@ l'exercice 5 a également posé un problème car la class col-xs- causait des pr
 |nom|prenom|date début| temps du projet|
 |:--|:-----|:---------|:---------------|
 |Lorand|Pierre|06/01/2020|1 jours|
-
