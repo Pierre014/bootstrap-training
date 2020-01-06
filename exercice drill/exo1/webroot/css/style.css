@@ -1,0 +1,25 @@
+.container{
+    background-color: #cda5f3;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.col{
+    background-color:#cda5f3;
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px;
+    
+    
+}
+.row{
+    justify-content: end;
+    
+}
+.col-md-3{
+    margin: 0 200px 0 200px;
+}
+
+
+

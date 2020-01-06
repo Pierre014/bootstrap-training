@@ -1,0 +1,13 @@
+.container{
+    background-color: #cda5f3;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.col{
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 5px;
+}
+.box{
+    order:3;
+}
